@@ -44,6 +44,14 @@ https://www.callicoder.com/spring-boot-actuator-metrics-monitoring-dashboard-pro
 
 ## Deployment
 
+Prerequisites (to see the applications being monitored)
+
+- sys-ui-bff - https://github.com/jvalentino/sys-juliet-ui-bff
+- sys-etl - https://github.com/jvalentino/sys-juliet-etl
+- sys-rest-user - https://github.com/jvalentino/sys-juliet-rest-user
+- Sys-ui - https://github.com/jvalentino/sys-juliet-ui
+- Sys-rest-doc - https://github.com/jvalentino/sys-juliet-rest-doc
+
 To re-install it, forward ports, and then verify it worked, use:
 
 ```bash
